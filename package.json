@@ -1,0 +1,22 @@
+{
+  "name": "contoso",
+  "version": "1.0.0",
+  "description": "business to grow using cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashish2769/ContosoMNC.git"
+  },
+  "author": "Ashish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashish2769/ContosoMNC/issues"
+  },
+  "homepage": "https://github.com/Ashish2769/ContosoMNC#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
